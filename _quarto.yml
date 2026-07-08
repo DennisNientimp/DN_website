@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Dennis Nientimp"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/research_projects.qmd
+        text: Research
+      - href: cv.Rmd
+        text: CV
+      - href: teaching.Rmd
+        text: Teaching
+      - href: music.qmd
+        text: Music
+
+        
+    right:
+      - href: about.qmd
+        text: About
+      - icon: github
+        href: https://github.com/dennisnientimp
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dennis-nientimp-997a42162/
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+
+
+
+

@@ -1,0 +1,40 @@
+---
+format: html
+editor: source
+---
+
+### 🎵 Music
+
+I am investing my free time into music production, sound exploration, radio, events and vinyl collecting.
+
+## 🎚️ HarryKatur
+
+A project exploring dub‑techno, minimalism and sound texture.
+
+**Listen on SoundCloud:** [HarryKatur on SoundCloud](https://soundcloud.com/harrykatur)
+
+## 📻 Klangteppich at Relate Radio
+
+Monthly show on Relate Radio.
+
+### Latest Episode (YouTube)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pd-5oEEpnxU" title="Klangteppich – Relate Radio Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+**Relate Radio:** [relateradio.com](https://relateradio.com/)
+
+## 💿 Impuls Imprint — Dub Techno Vinyl Label
+
+💿 Impuls Imprint — Dub Techno Vinyl Label
+
+Together with Marwan Engels, I curate Impuls Imprint, a dub‑techno vinyl label releasing deep, atmospheric, and reductionist techno.
+
+Impuls001 — V/A
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3289407942/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless>
+
+`<a href="https://impulsimprint.bandcamp.com/album/impuls001-v-a"`{=html} IMPULS001 \| V/A by Impuls </a>
+
+</iframe>
