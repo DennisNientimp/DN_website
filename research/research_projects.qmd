@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Testing Seeding Strategies with Empirically Informed  Diffusion Simulations in 11 Communities (Nientimp, Dijkstra & Flache; ongoing project)
+## Testing Seeding Strategies with Empirically Informed Diffusion Simulations in 11 Communities (Nientimp, Dijkstra & Flache; ongoing project)
 
 Community Energy Initiatives (CEIs) can play a big role in the energy transition, but they often struggle because not enough people join or because participation is uneven. Since people’s decisions are strongly influenced by their social connections, we treat CEI participation as something that spreads through a community much like other social behaviors. Using detailed network and survey data from 11 communities in the northern Netherlands, we built a simulation model that shows how participation might spread depending on who gets involved first. The model uses people’s stated willingness to participate and the strength of their social ties to estimate how easily they might join. By testing different starting strategies—random people, highly connected “hubs,” or central people within smaller groups—we show that the structure of each community’s network and individual willingness levels largely determine how fast participation grows. Because these patterns differ widely between communities, our results suggest that one‑size‑fits‑all policies and subsidies may not work well for CEIs.
 
@@ -13,11 +13,13 @@ Figure 1:
 ```{=html}
 
      
-<iframe src="adoption_all_weighted_no_means.pdf"
-        width="100%"
-        height="600px"
-        style="border: none;">
-</iframe>
+<div style="height: 600px; margin-bottom: 2rem;">
+  <iframe src="adoption_all_weighted_no_means.pdf"
+          width="100%"
+          height="100%"
+          style="border: none;">
+  </iframe>
+</div>
 ```
 
 *Note***.** Adoption outcomes for all communities. On the y axis the total proportion of adopters. The x axis is the simulation timeline. Each communities’ adoption lines are displayed in different colors and the seeding conditions in differently dotted lines. The three plots display the strong (Q1), medium (M) and weak (Q3) influence conditions, from left to right.
@@ -30,28 +32,30 @@ Figure 2:
 
 ```{=html}
 
-     
+<div style="height: 600px; margin-bottom: 2rem;">
 <iframe src="Figure_2.png"
         width="100%"
-        height="600px"
+        height="100%"
         style="border: none;">
 </iframe>
+</div>
 ```
 
 Note. Here is a picture of the network mapped by the initiators.
 
 Next to that the research team collelcted survey data in the respective communities on perceived local network structures and psychological and motivational factors with regards to the energy transition.
 
-Figure 2:
+Figure 3:
 
 ```{=html}
 
-     
+<div style="height: 600px; margin-bottom: 2rem;">
 <iframe src="g_com_12_merged_engl.pdf"
         width="100%"
-        height="600px"
+        height="100%"
         style="border: none;">
 </iframe>
+</div>
 ```
 
 Note. The figure shows the local community networks as perceived by initiators (the CEI) in blue and the network as perceived by the survey respondents of their respective community in red. Both network perception are merged here and overlap is indicated by green ties.
@@ -82,27 +86,32 @@ We utilize
 1.  Descriptive network analysis to identify community member that are more likely to participate due to their individual characteristics and their connection to the initiative.
 
     ```{=html}
-    <iframe src="Fig_4.pdf"
+    <div style="height: 600px; margin-bottom: 2rem;">
+      <iframe src="Fig_4.pdf"
             width="100%"
-            height="600px"
+            height="100%"
             style="border: none;">
     </iframe>
+    </div>
     ```
 
 2.  Cluster Analysis to identify clusters and possible differences in socioeconomic factors between them that might hinder diffusion of participation in the local community.
 
     ```{=html}
-    <iframe src="Fig_7.pdf"
+    <div style="height: 600px; margin-bottom: 2rem;">
+      <iframe src="Fig_7.pdf"
             width="100%"
-            height="600px"
+            height="100%"
             style="border: none;">
     </iframe>
+    </div>
     ```
 
 3.  Empirically informed diffusion models to investigate the best targeting strategy for the case at hand.
 
 ```{=html}
-<img src="central_diffusion.gif"
+<div style="height: 600px; margin-bottom: 2rem;">
+  <img src="central_diffusion.gif"
      alt="Animated figure"
-     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;" />
+     style="width: 100%; max-width: 100%; display: block; margin: 20px auto;" />
 ```

@@ -16,7 +16,6 @@ website:
       - href: music.qmd
         text: Music
 
-        
     right:
       - href: about.qmd
         text: About
@@ -29,8 +28,4 @@ format:
   html:
     theme: darkly
     css: styles.css
-
-
-
-
-
+    include-in-header: _includes/head.html
